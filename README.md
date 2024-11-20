@@ -1,2 +1,3 @@
 # lavender-app-for-personal-consultations
-our app offers online psychological support through live therapy sessions and recorded mental health programs available via subscription. Users can take personalized tests to identify mental health concerns, receive recommendations
+This is my project created using Behance. It showcases my work in UI/UX design.  
+You can check it out here: [View my project on Behance](https://www.behance.net/gallery/210730251/lavender-app-for-personal-consultations)
